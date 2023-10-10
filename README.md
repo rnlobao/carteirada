@@ -1,4 +1,4 @@
-Criaçao de um MVP de um aplicativo de consolidacao de investimentos em que o usuario pode cadastrar ativos de diversos setores, analisar sua rentabilidade e acompanhar cotacoes em tempo real.
+Para o trabalho final de engenharia de software II (BCC323) foi feita a criaçao de um MVP de um aplicativo de consolidacao de investimentos em que o usuario pode cadastrar ativos de diversos setores, analisar sua rentabilidade e acompanhar cotacoes em tempo real.
 
 Esse trabalho se deu pela materia de **Engenharia de Software II** e contou com a ajuda do Pedro Lucas, Augusto Guillarducci e Gabriel Catizani para o back-end que pode ser encontrado em: https://github.com/augustofgui/carteirada-back-end
 
